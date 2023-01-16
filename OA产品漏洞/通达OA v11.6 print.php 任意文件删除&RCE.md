@@ -196,7 +196,6 @@ else {
 
 回到 upload.php 文件进行代码审计
 
-![](../../images/e4502bc6-6698-49d6-8984-46c3f195264e.png)
 
 判断变量 **$action** 是否为 upload，再判断文件类型，如果不为 xls 和 img 则进入else分支
 
